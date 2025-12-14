@@ -40,67 +40,347 @@ Apple’s exit searches are required as a practical matter, occur at the workpla
 Apple asserts that if we conclude the time waiting for and undergoing exit searches is compensable as “hours worked,” our holding should be given prospective application only. We are not persuaded. The general rule that judicial decisions are given retroactive effect is basic in our legal tradition. However, “fairness and public policy sometimes weigh against the general rule that judicial decisions apply retroactively.”
 Apple contends that it reasonably relied on Morillion’s holding that purely voluntary activities do not constitute employer control. But that is neither an accurate description of our holding in Morillion, nor a fair characterization of the nature of the exit searches at issue in this case. It did not, as Apple contends, hold that any employer-controlled activity must be unavoidably required in order to be compensable as “hours worked.” In short, [Apple] cannot claim reasonable reliance on settled law. Accordingly, we see no reason to depart from the general rule that judicial decisions apply retroactively.
 We conclude that plaintiffs’ time spent on Apple’s premises waiting for, and undergoing, mandatory exit searches of bags, packages, or personal Apple technology devices, such as iPhones, voluntarily brought to work purely for personal convenience is compensable as “hours worked.”
-Case Questions
-Why does the court hold that Apple employees are under Apple control during the search?
-What is the distinction between this case and the Morillion case?
-Why does the “don’t bring anything to work with you option” not persuade the court?
 
-IRAC CASE ANALYSIS 
-To analyze the case using the IRAC method, break down the facts into the Issue, Rule,  Analysis/Application, and Conclusion components shown below. 
-CASE: United States v Park 
-Step One – Issue: What is the legal question? 
-The issue is whether John R. Park, as president of Acme Markets, Inc., can be held personally liable  for violations of the Federal Food, Drug, and Cosmetic Act (FDCA) based on his position, despite  not having personally engaged in or aware of the issues involving the rodent infestation in the  warehouse facilities. 
-Step Two – Rule: What is the relevant legal principle? 
-Under the Federal Food, Drug, and Cosmetic Act, an individual in a position of authority within a  corporation can be held liable for violations of the Act if they have a responsible relationship to the  issue. Liability does not require personal participation or direct knowledge of the wrongdoing, but  the individual must have had sufficient authority and responsibility to correct the issue.  
-A responsible corporate officer can be held accountable for violations when they have the ability to  prevent or correct the violations due to their position within the company. 
-Step Three – Application/Analysis: How does the rule apply to the facts of the case? 
-John R. Park was the president of Acme Markets, Inc., which was responsible for operating several  warehouses with significant food storage. Given his high-ranking position, he held substantial  authority and responsibility over the company's operations, including compliance with FDA  regulations. The FDA's communications and inspections documented the rodent infestation issues  in both the Philadelphia and Baltimore warehouses. Mr. Park was informed about the infestation  and assured that corrective action would be taken. However, no actions were taken, and  subsequent inspections confirmed the ongoing issues. Mr. Park testified that he relied various  employees to correct the issue, but evidence shows that he had knowledge that the problem was  not being addressed or corrected and yet did nothing about it. Mr. Park could be held liable based  on his position, even if he did not personally engage in the wrongdoing.  
-Step Four – Conclusion: What is the outcome based on the application of the rule to the facts? 
-Mr. Park had the responsibility and authority to address the rodent infestation issues. Under the  FDCA, he will be held liable for the violations as the responsible corporate officer.
-Case Questions 
-1. What problems did the FDA find in the Acme warehouses, and over what period? 
-Rodent infestation. Repeated violations were the problems the FDA uncovered from 1970– 1972. 
-2. Was Mr. Park warned about the problem? What action did he take? 
-Yes, a letter from the FDA’s chief of compliance was sent to Mr. Park to make him aware of  the problem that his subordinates were not taking appropriate action. Mr. Park met with his  vice president and asked that action be taken. 
-3. What standard of liability did the instruction given by the judge impose? 
-The issue was whether Park had a responsible relationship to the situation and the  instruction did not make all corporate officers automatically liable on the basis of their  position but in that there was liability on the basis of responsibility.
-IRAC Case Handout 
-What is it?  
-• Stands for: Issue, Rule, Analysis, Conclusion  
-• IRAC is a method for organizing the writer’s analysis of the material presented so that  the reader can easily follow and understand your reasoning 
-• Helpful for case analysis or written exams 
-1. Identify the Issue: 
-• What it is? Finding the legal question or problem the court needs to resolve. • How to identify:  
-o Look for the main question the court is answering. 
-o Frame it as a specific question, not a statement. 
-o Ask yourself, why are the individuals going to court? Once you have determined the  reason or issue, turn it into a statement: “There is an issue as to whether this occurred  when…”; “Does this occur when…” 
-▪ Example: Did the defendant breach the contract by failing to deliver goods on  time? 
-2. Identify the Rule: 
-• What it is? The legal principle or rule that applies to the issue. 
-• This step should include 2 or 3 statements. 
-• How to identify the rule: 
-o First, state the rule or legal concept. This may include the requirements need for that  type of case. Secondly, do not just state the rule/concept, instead incorporate it into  your answer. Be clear and concise. Focus on the rule that was identified as the issue in step one. 
-o Determine the relevant law, statute, or precedent that governs the issue. o State the rule clearly and concisely. 
-o Example: “For an action to be considered a crime, there needs to be Men Rea,  showing intentional conduct took place. At the center of this case, sufficient  evidence of intent (mens rea) is needed for conviction.”
-3. Application of the Rule/ Analysis: 
-• What it is? Applying the rule to the facts of the case to analyze how the rule affects the  issue. 
-• This is the section allows the writer to connect the evidence presented in the case to the  legal rule stated in step two and will support the conclusion in step four. This section  could refer to other cases, discuss policy or legal implications, and any other relevant  
-topics that could be questioned by the conclusion made is step four. Make sure that an  argument is made for both sides and make applicable counterarguments where  appropriate. 
-• How to analyze: 
-o Match the facts of the case to the elements of the rule. 
-o Discuss how the facts support or counter the application of the rule. 
-o Consider different arguments and perspectives. 
-o Example: “In this case, the defendant failed to deliver the goods by the agreed  deadline, which matches the breach of contract rule. The defendant's excuse of  unforeseen circumstances does not meet the criteria for a lawful excuse under the  rule…” 
-4. Draw a Conclusion: 
-• What it is? The final determination or outcome based on the application of the rule to  the facts. 
-• State in one sentence what conclusion can be drawn based on the analysis completed in  step three. For example, a conclusion could read as follows: “The court is likely to find  that this occurs when this happened.” 
-• How to conclude: 
-o Summarize the result of your analysis. 
-o State whether the rule was violated or upheld. 
-o Example: Due to the facts presented, the defendant is liable for breach of contract  due to the failure to deliver the goods on time. 
-IRAC Tips 
-• Be Specific: Tailor each component to the case’s particular details. 
-• Stay Concise: Keep your statements clear and to the point. 
-For our purposes in this class, when completing a case analysis using this methodology, I will be  looking for clear and concise write ups. I will be looking at the context and not the format. If you  follow the four steps above, list the applicable information in a well thought out and detailed  manner, you will receive full points for the assignment. In addition to the IRAC analysis, you  must answer all associated case questions listed for each case.  
-If you have questions feel free to reach out to me for further clarification.
+$1M settlement provides retroactive overtime pay to workers at Yakima Valley dairy
+MAI HOANG Yakima Herald-Republic Jun 21, 2021
+
+Yakima County Superior Court has granted final approval for a $1 million settlement that provides retroactive overtime pay for workers at a Lower Yakima Valley dairy.
+
+The settlement wraps up a class-action lawsuit filed in 2016 by Jose Martinez-Cuevas and Patricia Aguilar on behalf of nearly 300 workers of DeRuyter Brothers Dairy of Outlook.
+
+Martinez-Cuevas and Aguilar alleged that they worked nine to 12 hours a day, six hours a week without rest breaks, meal pay or overtime pay.
+
+Most of the wage claims were resolved in a $600,000 settlement approved by the court in 2017. That settlement left unresolved a challenge to state law that exempted workers from overtime pay.
+
+The case eventually went before the Washington Supreme Court, which ruled last fall that the overtime exemption for the dairy workers was unconstitutional. However, the question of whether the DeRuyter workers were entitled to retroactive overtime pay went back to Yakima County Superior Court.
+
+The case was set for a hearing, but a settlement was reached, said Andrea Schmitt, an attorney for Columbia Legal Services, which represented the workers.
+
+“We were quite confident we would win,” Schmitt said. “The settlement reflects that. The settlement is pretty good.”
+
+Former owners Jacobus and Geneva DeRuyter have sold the dairy but will still fulfill the settlement terms.
+
+John Ray Nelson, a Spokane attorney representing the DeRuyter family, said in a phone interview Monday that the original complaint challenged state law regarding overtime, but doesn’t allege that DeRuyter violated the overtime law as written at the time.
+
+“They came to the point where the DeRuyters wanted to get on with their life,” he said. “It didn’t seem like they could count on justice prevailing from the initial Washington Supreme Court decision.”
+
+Under the settlement, $515,000 will be paid to those who worked for the dairy between Dec. 8, 2013, and May 25, 2017. The amount received would be based on the amount of time worked. Schmitt said the range of payments would range from $65.65 to $18,473.23, with the median payment at $690.12. Martinez-Cuevas and Aguilar will receive an additional $7,500 service award as the plaintiffs in the lawsuit.
+
+The remainder of the settlement will cover attorneys’ fees and costs and a reserve fund for any additional taxes or expenses.
+
+The Washington Supreme Court ruling on the case did not address whether the overtime exemption should end for all agriculture workers. As a result, legislators, farmworker advocates and agricultural industry officials ended up negotiating a bill that would remove the overtime exemption for all agricultural workers. The bill passed the state House and Senate with bipartisan support. Under the new law, signed by Gov. Jay Inslee in May, agriculture workers will start receiving overtime pay on Jan. 1, and the threshold for overtime pay will be lowered to 40 hours by 2024.
+
+The bill also preempted lawsuits for back pay filed after the Washington Supreme Court decision, so other growers won’t be required to pay retroactive wages.
+
+Schmitt noted that final approval of the settlement came weeks before Juneteenth, which is now a federal holiday. Juneteeth marks the announcement made on June 19, 1865, in Galveston, Texas, that all slaves were free under the Emancipation Proclamation.
+
+Schmitt noted that the overtime exemption in Washington state was based on a federal labor law aimed at Black agricultural and domestic workers.
+
+“It’s a clear example of how people could not be acting in a racist way themselves and be perpetuating these systems,” she said.
+
+Schmitt said the growing national conversation in the last year about systemic racism and agricultural workers during the COVID-19 pandemic likely wouldn’t have changed the legal outcome, but it made it easier to talk about those issues, including in legal briefings.
+
+“Between 2016 and now, the way we are thinking about racism in our laws and society is significantly different,” she said. “This case, in some ways, evolved with those conversations.”
+
+Chapter 16:
+
+Chapter Review
+Summary
+When is an employee acting on behalf of an employer?
+
+Principal—employer; responsible party
+
+Agent—party hired to act on another’s behalf
+
+Restatement of Agency—common law view of agent–principal relationship
+
+Unincorporated association—nonlegal entity; no legal existence as natural or fictitious person
+
+How much authority does an employee hold?
+
+Express authority—written or stated authority
+
+Implied authority—authority by custom
+
+Apparent authority—authority by perceptions of third parties
+
+Lingering apparent authority—authority left with terminated agent because others are not told of termination
+
+Actual notice—receipt of notice of termination
+
+Constructive notice—publication of notice of termination
+
+Ratification—after-the-fact recognition of agent’s authority by principal
+
+Disclosed principal—existence and identity of principal are known
+
+Partially disclosed principal—existence but not identity of principal is known
+
+Undisclosed principal—neither existence nor identity of principal is known
+
+Gratuitous agency—agent works without compensation
+
+When is a business liable for an employee’s acts?
+
+Master–servant relationship—principal–agent relationship in which principal exercises great degree of control over agent
+
+Independent contractor—principal–agent relationship in which principal exercises little day-to-day control over agent
+
+Scope of employment—time when agent is doing work for the principal
+
+Negligent hiring or supervision
+
+Inherently dangerous activities—activities for which, even if performed by independent contractor, principal is liable
+
+What duties and obligations do employees owe employers?
+
+Fiduciary—one who has utmost duty of trust, care, loyalty, and obedience to another
+
+How is an agency relationship terminated?
+
+Employment at will—right of employer to terminate noncontract employees at any time
+
+Protections for employees through express contract (manuals), implied contracts, and public policy
+
+Whistle-blowers protected by antiretaliation statutes
+
+Chapter 17: 
+
+Chapter Review
+Summary
+What are the various forms of business organization?
+
+Sole proprietorship—individual ownership and operation of a business
+
+Partnership—voluntary association of two or more persons as co-owners in a business for profit
+
+Limited partnership—business structure that requires at least one general partner and affords limited liability for all limited partners
+
+Corporation—an entity formed by statute that has the rights of a legal person along with limited liability for its shareholder owners
+
+Limited liability company—newer form of business organization in which liability is limited except for conduct that is illegal
+
+Limited limited liability partnership—newest form of business organization, in which all partners’ liability is limited
+
+How is a partnership formed and operated?
+
+Uniform Partnership Act (UPA)—law on partnerships adopted in 49 states
+
+Revised Uniform Partnership Act (RUPA)—update of partnership law
+
+Partnership by implication—creation of a partnership by parties’ conduct
+
+Partnership by estoppel—partnership that arises by perception of third parties of its existence
+
+Dissolution—when partner ceases to be associated with the partnership
+
+Limited partnership—partnership with two types of partners: general and limited
+
+General partner—full and personal liability partner
+
+Limited partner—partner whose personal liability is limited to capital contributions
+
+Uniform Limited Partnership Act (ULPA)—uniform law adopted in nearly every state
+
+Revised Uniform Limited Partnership Act (RULPA)—update of limited partnership law
+
+Advances—partners’ loans to partnership
+
+How is a corporation formed and operated?
+
+Corporation—business organization that is a separate entity with limited liability and full transferability
+
+Domestic corporation—a corporation is domestic in the state in which its incorporation is filed
+
+Foreign corporation—category or label for corporation in all states except in state in which it is incorporated
+
+Professional corporation—entity with limited liability except for malpractice/negligence by its owners
+
+S corporation—IRS category of corporation with flow-through characteristics
+
+Model Business Corporation Act (MBCA)—uniform law adopted in approximately one-third of the states
+
+Articles of incorporation—document filed to organize a corporation
+
+Common stock—generally most voluminous type of corporate shares and usually allows shareholders to vote
+
+Preferred stock—ownership interest with priority over common stock
+
+Corporate veil—liability shield for corporate owners
+
+Watered shares—failure to pay par value for shares
+
+Business judgment rule—standard of liability for directors
+
+Corporate opportunity doctrine—fiduciary responsibility of directors with respect to investments
+
+Board of directors—policy-setting body of corporations
+
+Derivative suits—right of shareholder to recoup losses from those who made decisions not guided by proper process
+
+Proxy—right to vote for another
+
+Pooling agreement—shareholder contract to vote a certain way
+
+Voting trust—separation of legal and equitable title in shares to ensure voting of shares in one way
+
+Dissenting shareholder—shareholder who objects to merger
+
+Appraisal rights—value of shares immediately before merger that is paid to dissenting shareholder
+
+How is a limited liability company formed?
+
+Articles of organization
+
+Flow-through of income
+
+How are a limited liability partnership and a limited limited liability partnership formed?
+
+Register with state
+
+Flow-through of income
+
+May need proof of liability insurance
+
+Chapter 19:
+
+Chapter Review
+Summary
+What wage and hour protections exist for employees?
+
+Fair Labor Standards Act (FLSA)—federal law that regulates minimum wage and overtime pay
+
+Minimum wage—federal hourly rate of pay
+
+Overtime pay—rate of  times the hourly rate for hours over 40 per week worked
+
+Equal Pay Act—equal wages for equal work regardless of gender
+
+Child labor standards—restrictions on hours and types of work for children under the age of 18
+
+What protections exist for safety in the workplace?
+
+Occupational Safety and Health Act—federal law setting and enforcing workplace safety standards
+
+Occupational Safety and Health Administration (OSHA)—federal agency responsible for safety in the workplace
+
+Drug testing—screening of employees for impairment
+
+What happens when a worker is injured in the workplace?
+
+Workers’ compensation—state-by-state system of employer strict liability for injuries of workers on the job; the few exceptions to recovery include self-inflicted injuries
+
+What is the Social Security system, and what benefits does it provide?
+
+Social Security Act—federal law establishing disability, beneficiary, and retirement benefits
+
+Federal Insurance Contributions Act (FICA)—statute establishing system for withholding contributions for Social Security benefits
+
+Are workers entitled to pensions, and are they regulated?
+
+Employment Retirement Income Security Act (ERISA)—federal law regulating employer-sponsored pension plans
+
+Pension Protection Plan
+
+What rights do unemployed workers have?
+
+Unemployment compensation—federal program handled by states to provide temporary support for displaced workers
+
+Workers’ compensation—system of no-fault liability for employees injured on the job
+
+How are labor unions formed, and what is their relationship with employees?
+
+Norris–LaGuardia Act—federal law prohibiting injunctions to halt strikes
+
+National Labor Relations Act (Wagner Act)—federal law authorizing employee unionization
+
+Labor Management Relations Act (Taft–Hartley Act)—federal law limiting union economic weapons
+
+Labor-Management Reporting and Disclosure Act (Landrum–Griffin Act)—federal law regulating union membership and organizations
+
+National Labor Relations Board (NLRB)—federal agency responsible for enforcing labor laws
+
+Collective bargaining unit—group of employees recognized as exclusive bargaining agent
+
+Certification—recognition of union as exclusive bargaining agent
+
+Collective bargaining agreement—exclusive rights agreement between employer and employee
+
+Good-faith bargaining—requirement that parties negotiate terms in earnest
+
+Unfair labor practice—conduct by labor or management prohibited by statute
+
+Concerted activities—union-sponsored activities
+
+Picketing—public appearance of striking union members
+
+Boycotts—refusal to work for or to buy from or handle products of an employer
+
+Slowdown—workers report to job but do not operate at full speed
+
+Right-to-work laws—right to work at a company without being required to join a union
+
+Worker Adjustment and Retraining Notification Act (WARN)—federal law requiring employers to give 60 days’ notice of plant shutdowns
+
+Lockout—employer closure of plant or business so workers cannot work
+
+What are the laws and procedures related to immigrants and employment?
+
+Immigration and Naturalization Act (INA)
+
+Immigration Reform and Control Act of 1986 (IRCA)
+
+Immigration Act of 1990
+
+Illegal Immigration Reform and Immigrant Responsibility Act of 1996
+
+Antiterrorism and Effective Death Penalty Act
+
+Uniting and Strengthening America by Proving Appropriate Tools Required to Intercept and Obstruct Terrorism Act (USA Patriot Act)
+
+The Homeland Security Act
+
+American Competitiveness in the Twenty-First Century Act of 2000
+
+DREAM Act (Development, Relief, and Education for Alien Minors Act) (DACA)
+
+Chapter 20: 
+
+Chapter Review
+Summary
+What laws govern employment discrimination?
+
+Civil Rights Acts of 1866, 1964, 1991—federal statutes prohibiting discrimination in various aspects of life (employment, voting)
+
+Equal Pay Act—equal pay for the same work regardless of gender
+
+Equal Employment Opportunity Act—antidiscrimination employment amendment to Civil Rights Act
+
+Pregnancy Discrimination Act—prohibits refusing to hire, refusing to promote, or firing because of pregnancy
+
+Age Discrimination in Employment Act (ADEA)—prohibits hiring, firing, promotion, benefits, raises based on age
+
+Rehabilitation Act of 1973—federal statute prohibiting discrimination on basis of disability by federal agencies and contractors
+
+Americans with Disabilities Act (ADA)—federal law prohibiting discrimination on basis of disability by certain employees
+
+Family and Medical Leave Act (FMLA)—federal law providing for 12 weeks of leave for childbirth, adoption, or family illness
+
+Lilly Ledbetter Fair Pay Act—federal law that expands the time for filing claims for violations of Title VII for compensation
+
+What types of discrimination exist?
+
+Disparate treatment—form of discrimination in which members of different races/sexes are treated differently
+
+Disparate impact—test or screening device that affects one group more than another
+
+Pattern or practice of discrimination—theory for establishing discrimination that compares population percentages with workplace percentages
+
+Sexual harassment—form of discrimination that involves a quid pro quo related to sexual favors or an atmosphere of harassment
+
+What are the defenses to discrimination?
+
+Bona fide occupational qualification (BFOQ)—job qualification of sex, religion, or national origin that is necessary for the operation of a business, such as religious affiliation for the pastor of a church
+
+Affirmative action—programs created to remedy past wrongs that permit choices on the basis of race, sex, or national origin
 # 19.1
